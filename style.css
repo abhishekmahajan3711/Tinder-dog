@@ -1,0 +1,158 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    line-height:1.5;
+    font-family:"Montserrat";
+    font-size:3rem;
+}
+h3{
+    font-family:"Montserrat-bold";
+}
+
+#title{
+    background-color:#ff4c68;
+    color:#fff;
+}
+
+.btn1{
+    height:1.5rem;
+    width:1.5rem;
+
+}
+
+
+#heading{
+    font-family: 'Montserrat';
+    font-weight:bold;
+    font-size:3.5rem;
+    line-height:1.5;
+}
+.container-fluid{
+    padding:3% 15%;
+}
+i{
+    height:40px;
+    width:40px;
+}
+p{
+    padding:0 3rem;
+}
+
+
+
+.navbar{
+    padding-bottom:4.5rem;
+}
+.navbar-brand{
+    font-family:"Ubuntu";
+    font-weight:bold;
+    font-size:2rem;
+   
+}
+.nav-item{
+    padding:0 18px;
+}
+.nav-link{
+    font-size:1.2rem;
+    font-family:"Montserrat-light";
+}
+.download-button{
+    margin:5% 3% 5% 0;
+}
+.title-image{
+    width:20%;
+    transform:rotate(25deg);
+    position:absolute;
+}
+
+
+
+
+#features{
+    background-color:#fff;
+    position:relative;
+    z-index:1;
+    padding:90px;
+}
+
+.fontawesome{
+    height:74px;
+    width:64px;
+    color:#ef8172;
+}
+.fontawesome:hover{
+    color:#ff4c68;
+}
+
+.f1{
+    padding:20px;
+    text-align:center;
+}
+
+#testimonials{
+    
+    text-align:center;
+    background-color:#ff4c68;
+    color:#fff;
+}
+.testimonial-image{
+    width:10%;
+    border-radius:200%;
+    margin:20px;
+}
+.carousel-item{
+    padding:15% 10%;
+}
+
+
+#press{
+    text-align:center;
+    background-color:#ff4c68;
+    padding-bottom:3%;
+}
+.press-logo{
+    width:15%;
+    margin-top:5%;
+    margin-right:6%;
+    margin-bottom:10%;
+}
+
+
+
+#pricing{
+    padding:100px;
+    text-align:center;
+}
+.pricing-column{
+    padding:3% 5%;
+}
+
+
+#cta{
+    background-color:#ff4c68;
+    color:#fff;
+    font-family:"Montserrat-black";
+    text-align:center;
+    padding:80px;
+   
+}
+
+
+
+
+#footer{
+    text-align:center;
+    padding:60px;
+
+}
+
+.cta-button{
+    height:1.5rem;
+    width:1.5rem;
+
+}
+.ct-button{
+    margin-right:10px;
+    margin-top:10px;
+}
